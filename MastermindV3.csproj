@@ -6,4 +6,8 @@
         <LangVersion>4</LangVersion>
     </PropertyGroup>
 
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <DocumentationFile>..\MyDocs\MastermindV3.xml</DocumentationFile>
+    </PropertyGroup>
+
 </Project>

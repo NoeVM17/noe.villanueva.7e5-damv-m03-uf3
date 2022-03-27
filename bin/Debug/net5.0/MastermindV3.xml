@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MastermindV3</name>
+    </assembly>
+    <members>
+        <member name="T:MastermindV3.InData">
+            <summary>
+            Classe InData que la farem servir per crear mètodes només per rebre informació de l'usuari o per crear informació que necessitarem per fer les operacions.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.InData.IniciJoc">
+            <summary>
+            Mètode d'inici del joc on tindrem writelines com a pantalla principal al començar el joc.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.InData.Nom">
+            <summary>
+            Mètode on rebrem el nom del jugador que estarà jugant la partida corresponent.
+            </summary>
+            <returns>Retorna un string amb el nom del jugador.</returns>
+        </member>
+        <member name="M:MastermindV3.InData.JocInici">
+            <summary>
+            Mètode on tindrem writelines informant sobre les lletres amb les que juguem perque el jugador pugui tenir-ho com a orientació.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.InData.Intents">
+            <summary>
+            Mètode on inicialitzem els intents que tindrà el jugador per intentar acertar la combinació.
+            </summary>
+            <returns>Retorna un int amb el intents inicials.</returns>
+        </member>
+        <member name="M:MastermindV3.InData.IntentsJugador">
+            <summary>
+            Mètode on inicialitzem els intents que farà servir el jugador per intentar acertar la combinació.
+            </summary>
+            <returns>Retorna un int amb el intents que va fent el jugador.</returns>
+        </member>
+        <member name="M:MastermindV3.InData.CombInicial">
+            <summary>
+            Mètode on es demana al jugador que insereixi la combinació que vol provar i es controlarà i comprovarà la combinació introduïda.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:MastermindV3.Menu">
+            <summary>
+            Classe Menu on tenim el Menu per controlar les instruccions i els mètodes de cada exercici.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Menu.Inici">
+            <summary>
+            Mètode Inici on controlarem l'inici del programa i quan s'acabara l'execució.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Menu.MostrarMenu">
+            <summary>
+            Writelines amb els missatges sobre les instruccions del menu.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Menu.TractarOpcio">
+            <summary>
+            Mètode on controlem les instruccions i el final de l'execució.
+            </summary>
+            <returns>Retorna un booleà per indicar que es vol acabar l'execució.</returns>
+        </member>
+        <member name="M:MastermindV3.Menu.Exercici1">
+            <summary>
+            Mètode del primer exercici on accedim a altres cs per fer altres mètodes necessaris per executar el primer exercici.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Menu.Exercici2">
+            <summary>
+            Mètode del segon exercici on accedim a altres cs, en aquest cas per mostrar el ranking de jugadors.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Menu.Exercici3">
+            <summary>
+             Mètode del tercer exercici on accedim a altres cs, en aquest cas per mostrar les regles del Mastermind.
+            </summary>
+        </member>
+        <member name="T:MastermindV3.Mètodes">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:MastermindV3.Program">
+            <summary>
+            Class Program on inicialitzem el programa.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Program.Main">
+            <summary>
+            Main on creem el programa i l'inicialitzem.
+            </summary>
+        </member>
+    </members>
+</doc>

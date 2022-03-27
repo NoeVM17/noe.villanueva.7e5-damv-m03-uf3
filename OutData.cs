@@ -2,8 +2,15 @@ using System;
 using System.IO;
 namespace MastermindV3
 {
+    /// <summary>
+    /// Classe OutData on tindrem mètodes només per mostrar resultats a l'usuari.
+    /// </summary>
     public class OutData
     {
+        /// <summary>
+        /// Mètode on es mostra la combinació correcta i es surt del programa.
+        /// </summary>
+        /// <param name="comb"></param>
         public static void SortirPrograma(string comb)
         {
             Console.WriteLine("La combinació era: " + comb);
@@ -11,6 +18,12 @@ namespace MastermindV3
             Console.WriteLine("Prem una tecla per sortir!");
             Console.ReadKey();
         }
+        /// <summary>
+        /// Mètode de informació sobre els intents restants que li queden al jugador.
+        /// </summary>
+        /// <param name="rightposition">Lletres en posició correcta.</param>
+        /// <param name="wrongposition">Lletres en posició incorrecta.</param>
+        /// <param name="intents">Intents restants.</param>
         public static void IntentsRestants(int rightposition,int wrongposition, int intents)
         {
             Console.WriteLine("");
@@ -18,6 +31,9 @@ namespace MastermindV3
             Console.WriteLine("Et queden " + intents + " intents.");
             Console.WriteLine("");
         }
+        /// <summary>
+        /// Writelines en el cas de victoria.
+        /// </summary>
         public static void Victoria()
         {
             Console.WriteLine("");
@@ -26,6 +42,9 @@ namespace MastermindV3
             Console.ResetColor();
             Console.WriteLine("");
         }
+        /// <summary>
+        /// Writelines en el cas de derrota.
+        /// </summary>
         public static void Derrota()
         {
             Console.WriteLine("");
@@ -34,6 +53,9 @@ namespace MastermindV3
             Console.ResetColor();
             Console.WriteLine("");
         }
+        /// <summary>
+        /// Mètode de creació del document del ranking o actualització del document.
+        /// </summary>
         public static void Ranking()
         {
             var path = @"../../../../RankingPosicions";

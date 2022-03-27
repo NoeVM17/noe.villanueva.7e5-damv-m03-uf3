@@ -1,12 +1,17 @@
 using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
 namespace MastermindV3
 {
+    /// <summary>
+    /// Classe Mètodes on tindrem tots els mètodes que necessitarem per controlar les combinacions, comprovar-les i anar donant la informació sobre els acerts i errors. També tindrem el mètode per crear el document amb el ranking dels jugadors.
+    /// </summary>
     public class Mètodes
     {
+        /// <summary>
+        /// Mètode on es crea la combinació del Mastermind de manera aleatòria.
+        /// </summary>
+        /// <returns></returns>
         public static string Combinacio()
         {
             string comb = "";
@@ -25,6 +30,14 @@ namespace MastermindV3
 
             return comb;
         }
+        /// <summary>
+        /// Mètode on es comprova la combinació del jugador i es miren els acerts i errors que té.
+        /// </summary>
+        /// <param name="intent">Combinació provada pel jugador.</param>
+        /// <param name="comb">Combinació del Mastermind per acertar.</param>
+        /// <param name="intents">Intents restants per acertar la combinació.</param>
+        /// <param name="final">Paràmetre per saber que s'ha acabat la partida.</param>
+        /// <param name="intentsjugador">Intents que porta el jugador intentant-ho.</param>
         public static void ComprovarComb(string intent, string comb, ref int intents, ref bool final,
             ref int intentsjugador)
         {
@@ -69,30 +82,14 @@ namespace MastermindV3
                 OutData.SortirPrograma(comb);
             }
         }
-
-        public static void ActMatriu(ref string[] nomsRanking, ref int[] intentsRanking, string nom, int intentsjugador)
-        {
-            for (int i = 0; i < nomsRanking.Length; i++)
-            {
-                /*nomsRanking[i] = nom;
-                intentsRanking[i] = intentsjugador;*/
-            }
-        }
+        /// <summary>
+        /// Mètode per crear el ranking del Mastermind.
+        /// </summary>
+        /// <param name="path">Ruta de la carpeta per crear el document.</param>
+        /// <param name="nom">Nom del jugador que està jugant.</param>
+        /// <param name="intentsjugador">Intents que ha necessitat el jugador per acertar la combinació.</param>
         public static void NomRanking(string path, string nom, int intentsjugador)
         {
-            /*List<Rank> ranks = new List<Rank>();
-            List<Rank> ranks2 = new List<Rank>();
-            ranks.Add(new Rank(){RankName = nom, RankIntents = intentsjugador});
-            foreach (Rank aRank in ranks)
-            {
-                Console.WriteLine(aRank);
-                ranks2.Add(aRank);
-            }
-            ranks2.Sort(Comparer<Rank>.Default);
-            foreach (Rank aRank in ranks2)
-            {
-                Console.WriteLine(aRank);
-            }*/
             if (!File.Exists(path))
             {
                 using (StreamWriter sw = File.CreateText(path))

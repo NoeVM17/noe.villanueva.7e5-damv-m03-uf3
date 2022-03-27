@@ -30,3 +30,4 @@ D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\Mastermi
 D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\ref\MastermindV3.dll
 D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.pdb
 D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.genruntimeconfig.cache
+D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.xml
