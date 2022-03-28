@@ -81,7 +81,65 @@
         </member>
         <member name="T:MastermindV3.Mètodes">
             <summary>
-            
+            Classe Mètodes on tindrem tots els mètodes que necessitarem per controlar les combinacions, comprovar-les i anar donant la informació sobre els acerts i errors. També tindrem el mètode per crear el document amb el ranking dels jugadors.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.Mètodes.Combinacio">
+            <summary>
+            Mètode on es crea la combinació del Mastermind de manera aleatòria.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:MastermindV3.Mètodes.ComprovarComb(System.String,System.String,System.Int32@,System.Boolean@,System.Int32@)">
+            <summary>
+            Mètode on es comprova la combinació del jugador i es miren els acerts i errors que té.
+            </summary>
+            <param name="intent">Combinació provada pel jugador.</param>
+            <param name="comb">Combinació del Mastermind per acertar.</param>
+            <param name="intents">Intents restants per acertar la combinació.</param>
+            <param name="final">Paràmetre per saber que s'ha acabat la partida.</param>
+            <param name="intentsjugador">Intents que porta el jugador intentant-ho.</param>
+        </member>
+        <member name="M:MastermindV3.Mètodes.NomRanking(System.String,System.String,System.Int32)">
+            <summary>
+            Mètode per crear el ranking del Mastermind.
+            </summary>
+            <param name="path">Ruta de la carpeta per crear el document.</param>
+            <param name="nom">Nom del jugador que està jugant.</param>
+            <param name="intentsjugador">Intents que ha necessitat el jugador per acertar la combinació.</param>
+        </member>
+        <member name="T:MastermindV3.OutData">
+            <summary>
+            Classe OutData on tindrem mètodes només per mostrar resultats a l'usuari.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.OutData.SortirPrograma(System.String)">
+            <summary>
+            Mètode on es mostra la combinació correcta i es surt del programa.
+            </summary>
+            <param name="comb"></param>
+        </member>
+        <member name="M:MastermindV3.OutData.IntentsRestants(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Mètode de informació sobre els intents restants que li queden al jugador.
+            </summary>
+            <param name="rightposition">Lletres en posició correcta.</param>
+            <param name="wrongposition">Lletres en posició incorrecta.</param>
+            <param name="intents">Intents restants.</param>
+        </member>
+        <member name="M:MastermindV3.OutData.Victoria">
+            <summary>
+            Writelines en el cas de victoria.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.OutData.Derrota">
+            <summary>
+            Writelines en el cas de derrota.
+            </summary>
+        </member>
+        <member name="M:MastermindV3.OutData.Ranking">
+            <summary>
+            Mètode de creació del document del ranking o actualització del document.
             </summary>
         </member>
         <member name="T:MastermindV3.Program">

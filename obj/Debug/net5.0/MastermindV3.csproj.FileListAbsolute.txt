@@ -14,20 +14,21 @@
 /media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/ref/MastermindV3.dll
 /media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.pdb
 /media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.genruntimeconfig.cache
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.exe
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.deps.json
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.runtimeconfig.json
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.runtimeconfig.dev.json
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.dll
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\ref\MastermindV3.dll
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.pdb
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.csproj.AssemblyReference.cache
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.GeneratedMSBuildEditorConfig.editorconfig
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.AssemblyInfoInputs.cache
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.AssemblyInfo.cs
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.csproj.CoreCompileInputs.cache
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.dll
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\ref\MastermindV3.dll
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.pdb
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\obj\Debug\net5.0\MastermindV3.genruntimeconfig.cache
-D:\Noè Villanueva 1rDAMv\M03 Progamació\noevillanueva7e5-damv-m03-uf3\MastermindV3\MastermindV3\bin\Debug\net5.0\MastermindV3.xml
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.exe
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.deps.json
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.runtimeconfig.json
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.runtimeconfig.dev.json
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.dll
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/ref/MastermindV3.dll
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.pdb
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.csproj.AssemblyReference.cache
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.GeneratedMSBuildEditorConfig.editorconfig
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.AssemblyInfoInputs.cache
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.AssemblyInfo.cs
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.csproj.CoreCompileInputs.cache
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.dll
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/ref/MastermindV3.dll
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.pdb
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/Debug/net5.0/MastermindV3.genruntimeconfig.cache
+D:/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.xml
+/media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/bin/Debug/net5.0/MastermindV3.xml

@@ -80,6 +80,9 @@ namespace MastermindV3
                 }
             }
         }
+        /// <summary>
+        /// Mètode on donarem informació sobre les regles del joc mitjançant writelines.
+        /// </summary>
         public static void ReglesJoc()
         {
             var path = @"../../../../ReglesDeJoc";

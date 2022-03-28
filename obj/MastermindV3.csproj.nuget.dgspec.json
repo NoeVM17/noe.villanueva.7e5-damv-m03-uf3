@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Noè Villanueva 1rDAMv\\M03 Progamació\\noevillanueva7e5-damv-m03-uf3\\MastermindV3\\MastermindV3\\MastermindV3.csproj": {}
+    "/media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/MastermindV3.csproj": {}
   },
   "projects": {
-    "D:\\Noè Villanueva 1rDAMv\\M03 Progamació\\noevillanueva7e5-damv-m03-uf3\\MastermindV3\\MastermindV3\\MastermindV3.csproj": {
+    "/media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/MastermindV3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Noè Villanueva 1rDAMv\\M03 Progamació\\noevillanueva7e5-damv-m03-uf3\\MastermindV3\\MastermindV3\\MastermindV3.csproj",
+        "projectUniqueName": "/media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/MastermindV3.csproj",
         "projectName": "MastermindV3",
-        "projectPath": "D:\\Noè Villanueva 1rDAMv\\M03 Progamació\\noevillanueva7e5-damv-m03-uf3\\MastermindV3\\MastermindV3\\MastermindV3.csproj",
-        "packagesPath": "C:\\Users\\noe-v\\.nuget\\packages\\",
-        "outputPath": "D:\\Noè Villanueva 1rDAMv\\M03 Progamació\\noevillanueva7e5-damv-m03-uf3\\MastermindV3\\MastermindV3\\obj\\",
+        "projectPath": "/media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/MastermindV3.csproj",
+        "packagesPath": "/home/sjo/.nuget/packages/",
+        "outputPath": "/media/sjo/TOSHIBA EXT/Noè Villanueva 1rDAMv/M03 Progamació/noevillanueva7e5-damv-m03-uf3/MastermindV3/MastermindV3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\noe-v\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/sjo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,30 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.12, 5.0.12]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[5.0.0, 5.0.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\noe-v\\.dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/current/sdk/5.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }

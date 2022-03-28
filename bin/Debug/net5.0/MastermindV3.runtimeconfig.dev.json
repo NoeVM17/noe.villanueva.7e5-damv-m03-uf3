@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\noe-v\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\noe-v\\.nuget\\packages"
+      "/home/sjo/.dotnet/store/|arch|/|tfm|",
+      "/home/sjo/.nuget/packages"
     ]
   }
 }
